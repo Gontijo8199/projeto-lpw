@@ -1,0 +1,26 @@
+h1 {
+   text-align: center;
+   font-size: 50px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+   color: whitesmoke;
+   text-shadow: -1px 0 black, 0 1px black,1px 0 black, 0 -1px black;
+   
+}
+ul{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a:visited{
+    color: white;
+}
+
+body{
+    background-color: darkslategray;
+    margin: 2% 20% 0% 20%;
+
+}
